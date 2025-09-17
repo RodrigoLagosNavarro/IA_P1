@@ -7,8 +7,6 @@ print("=== Portafolio Primer Parcial de Inteligencia Artificial ===")
 print("Curso: PROGRAMACIÓN FÁCIL")
 print("Autor: Rodrigo Lagos Navarro | Matrícula: 23110148 | Grupo: 6E")
 
-print("\n=== Resumen de Lección 4 ===")
-print("Pasos para descargar, instalar y configurar VSCode en Windows.")
 
 # DESCARGA
 print("\n> Paso 1: Descargar VSCode")
