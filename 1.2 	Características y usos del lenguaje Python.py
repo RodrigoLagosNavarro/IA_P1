@@ -1,10 +1,7 @@
+# ============================================================
 # Lección 2: Características y usos del lenguaje Python
 # Autor: Rodrigo Lagos Navarro - Grupo 6E
-
-===
-Este es mi primer script en Python para la materia de Inteligencia Artificial.
-Aquí practico lo básico de programación en Python.
-===
+# ============================================================
 
 print("=== Portafolio primer parcial de Inteligencia Artificial ===")
 print("Curso PROGRAMACION FACIL.")
