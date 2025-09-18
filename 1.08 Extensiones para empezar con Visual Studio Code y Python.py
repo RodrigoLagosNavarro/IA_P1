@@ -7,7 +7,7 @@ print("=== Portafolio Primer Parcial de Inteligencia Artificial ===")
 print("Curso: PROGRAMACIÓN FÁCIL")
 print("Autor: Rodrigo Lagos Navarro | Matrícula: 23110148 | Grupo: 6E")
 
-# --- ABRIR PANEL DE EXTENSIONES ---
+# ABRIR PANEL DE EXTENSIONES
 print("\n> Paso 1: Abrir panel de extensiones en VSCode")
 print("CTRL + SHIFT + X  # Atajo de teclado para abrir extensiones")
 
